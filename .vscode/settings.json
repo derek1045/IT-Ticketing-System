@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1234,
+            "driver": "PostgreSQL",
+            "name": "ticket_db",
+            "database": "t_s",
+            "username": "postgres"
+        }
+    ]
+}
